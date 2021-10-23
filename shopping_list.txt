@@ -6,4 +6,5 @@ beans
 butter
 bread
 WINE
+apple-juice
 6 TVs
