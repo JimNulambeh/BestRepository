@@ -1,4 +1,4 @@
-apples
+4 apples
 rice
 eggs
 vegetable oil
