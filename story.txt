@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 A Story: 
+=======
+A Story. MY STORY!
+>>>>>>> refs/remotes/origin/main
 Once upon a time,
 there lived a married man called Paul, who had 2 children and he was so proud of them. 
 added part of story
